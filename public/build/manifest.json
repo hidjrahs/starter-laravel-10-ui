@@ -1,4 +1,13 @@
 {
+  "public/assets/images/book.jpg": {
+    "file": "assets/book-b1a9d253.jpg",
+    "src": "public/assets/images/book.jpg"
+  },
+  "resources/css/auth.css": {
+    "file": "assets/auth-72461ab9.css",
+    "isEntry": true,
+    "src": "resources/css/auth.css"
+  },
   "resources/js/app.js": {
     "file": "assets/app-bab06fa4.js",
     "isEntry": true,

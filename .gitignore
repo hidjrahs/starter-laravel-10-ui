@@ -1,8 +1,5 @@
 /.phpunit.cache
 /node_modules
-/public/hot
-/public/storage
-/storage/*.key
 /vendor
 .env
 .env.backup
@@ -15,5 +12,5 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-public/assets/images/users/
+
 
