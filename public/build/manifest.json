@@ -3,6 +3,11 @@
     "file": "assets/book-b1a9d253.jpg",
     "src": "public/assets/images/book.jpg"
   },
+  "resources/css/app.css": {
+    "file": "assets/app-479ff4c2.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
   "resources/css/auth.css": {
     "file": "assets/auth-72461ab9.css",
     "isEntry": true,
