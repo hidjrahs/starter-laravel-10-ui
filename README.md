@@ -1,5 +1,7 @@
 # Laravel 10 And Bootstrap 5 Starter Kit 
 
+Demo https://starter-laravel-10-ui.klikweb.my.id
+
 This is a starter kit for Laravel projects, featuring laravel UI for backend framework, Bootstrap 5 as the front-end framework, DataTable Yajra for enhanced data tables, and Laravel Spatie for role and permission management. 
 The project also includes a dynamic menu generated from the database.
 
