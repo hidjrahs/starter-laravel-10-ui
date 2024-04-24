@@ -12,6 +12,7 @@ The project also includes a dynamic menu generated from the database.
 - DataTable Yajra for advanced data table functionalities.
 - Laravel Spatie for efficient role and permission management.
 - Dynamic menu generated from the database, providing flexibility in navigation.
+- Landing Page
 
 ## Requirements
 
@@ -78,7 +79,9 @@ Password : password
 - [Laravel Spatie](https://spatie.be/docs/laravel-permission/v6/introduction)
 - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [ArFa - Admin Dashboard](https://github.com/abdulisabdul/arfa)
+- [Mulai Dari Null](https://www.youtube.com/playlist?list=PLM2utx0CaGTIzR21G0KEjeKmNuJvG3Q6V)
 - [Yajra Datatable](https://yajrabox.com/docs/laravel-datatables/10.0)
+- [Landing - Page](https://github.com/Demenico14/Travel-Website)
 
 
 
