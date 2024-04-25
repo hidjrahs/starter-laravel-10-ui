@@ -113,8 +113,8 @@
                             Role
                         </label>
                         <select class="form-select select2 @error('role') is-invalid @enderror" id="role"
-                            name="role" @required(true)>
-                            <option value=""></option>
+                            name="role" @required(true) @disabled($user->id === 1)>
+                            {{-- <option value=""></option> --}}
                             @foreach (getRoles() as $role)
                                 <option value="{{ $role->id }}"
                                     {{ optional($user->roles)->contains('id', $role->id) ? 'selected' : '' }}>
